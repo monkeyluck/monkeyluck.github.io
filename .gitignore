@@ -1,2 +1,19 @@
-_site/
-.sass-cache/
+# Jekyll
+#_site/
+#.sass-cache/
+#.jekyll-metadata
+
+# Hexo
+db.json
+*.log
+node_modules/
+public/
+themes/
+.deploy*/
+
+# Windows:
+Thumbs.db
+Desktop.ini
+
+# Mac
+.DS_Store
